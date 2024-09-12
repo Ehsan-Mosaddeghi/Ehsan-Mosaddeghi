@@ -10,6 +10,7 @@
 My fascination with frontend development began when I was just 16. I that I had a creative streak and a passion for working with design and colors. As I delved deeper into the world of coding, I realized that frontend development was the perfect blend of art and technology. I found myself drawn to the idea of bringing designs to life, creating interactive experiences, and making a visual impact. It was then that I knew I wanted to pursue a career in frontend development, and I've been hooked ever since!
 </details>
 
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
 
 - 👨‍💻 My porftolio [https://ehsan-react-portfolio.vercel.app/](https://ehsan-react-portfolio.vercel.app/)
   
@@ -37,6 +38,5 @@ My fascination with frontend development began when I was just 16. I that I had 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehsan-Mosaddeghi&show_icons=true&theme=holi)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsan-mosaddeghi&show_icons=true&locale=en&layout=compact" alt="ehsan-mosaddeghi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsan-mosaddeghi&" alt="ehsan-mosaddeghi" /></p>
