@@ -6,7 +6,7 @@
 </p>
 
 <details>
-<summary><h3>My Journey as a Frontend Developer</h3></summary>
+<summary>My Journey as a Frontend Developer</summary>
 My fascination with frontend development began when I was just 16. I that I had a creative streak and a passion for working with design and colors. As I delved deeper into the world of coding, I realized that frontend development was the perfect blend of art and technology. I found myself drawn to the idea of bringing designs to life, creating interactive experiences, and making a visual impact. It was then that I knew I wanted to pursue a career in frontend development, and I've been hooked ever since!
 </details>
 
