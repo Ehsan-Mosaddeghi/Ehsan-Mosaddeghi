@@ -1,9 +1,13 @@
 <h1 align="center">Hi I'm Ehsan Mosaddeghi</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **Next JS**
+<p>
+  19 years old self-taught frontend developer passionate about learning and creating innovative user experiences. Eager to grow and explore new technologies.
+</p>
 
 - 👨‍💻 My porftolio [https://ehsan-react-portfolio.vercel.app/](https://ehsan-react-portfolio.vercel.app/)
+  
+- 🌱 I’m currently learning **Next JS**
 
 - 📫 How to reach me **xdehsanxd@gmail.com**
 
