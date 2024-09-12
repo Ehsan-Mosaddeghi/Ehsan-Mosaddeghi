@@ -33,7 +33,7 @@ My fascination with frontend development began when I was just 16. I that I had 
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsan-mosaddeghi&show_icons=true&locale=en&layout=compact" alt="ehsan-mosaddeghi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsan-mosaddeghi&show_icons=true&locale=en&layout=compact" alt="ehsan-mosaddeghi" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehsan-Mosaddeghi&show_icons=true&theme=holi)
 
