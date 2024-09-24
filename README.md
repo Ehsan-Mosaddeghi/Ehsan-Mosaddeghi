@@ -13,8 +13,6 @@ My fascination with frontend development began when I was just 16. I that I had 
 
 - 👨‍💻 My porftolio [https://ehsan-react-portfolio.vercel.app/](https://ehsan-react-portfolio.vercel.app/)
   
-- 🌱 I’m currently learning **Next JS**
-
 - 📫 How to reach me **xdehsanxd@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Aj4nrS6B-AW5Vj2AijqYH5ct2rLJezIi/view?usp=sharing](https://drive.google.com/file/d/1Aj4nrS6B-AW5Vj2AijqYH5ct2rLJezIi/view?usp=sharing)
