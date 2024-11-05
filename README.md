@@ -15,8 +15,6 @@ My fascination with frontend development began when I was just 16. I that I had 
   
 - 📫 How to reach me **xdehsanxd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Aj4nrS6B-AW5Vj2AijqYH5ct2rLJezIi/view?usp=sharing](https://drive.google.com/file/d/1Aj4nrS6B-AW5Vj2AijqYH5ct2rLJezIi/view?usp=sharing)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
