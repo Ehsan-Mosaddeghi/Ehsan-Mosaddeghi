@@ -13,8 +13,6 @@ My fascination with frontend development began when I was just 16. I that I had 
 
 - 👨‍💻 [My porftolio](https://ehsan-msd.vercel.app/)
   
-- 📫 How to reach me **xdehsanxd@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
