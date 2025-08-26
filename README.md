@@ -2,7 +2,7 @@
 <h3 >Frontend developer</h3>
 
 <p>
-  19 years old self-taught frontend developer passionate about learning and creating innovative user experiences. Eager to grow and explore new technologies.
+  20 years old self-taught frontend developer passionate about learning and creating innovative user experiences. Eager to grow and explore new technologies.
 </p>
 
 <details>
