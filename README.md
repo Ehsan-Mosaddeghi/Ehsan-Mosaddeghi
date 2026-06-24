@@ -16,7 +16,7 @@ My fascination with frontend development began when I was just 16. I that I had 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ehsan hpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehsan hpy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ehsan-mosaddeghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehsan hpy" height="30" width="40" /></a>
 <a href="https://instagram.com/ehsan.hpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehsan.hpy" height="30" width="40" /></a>
 <a href="https://discord.gg/814819452309733406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="814819452309733406" height="30" width="40" /></a>
 </p>
